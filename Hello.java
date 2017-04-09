@@ -4,4 +4,7 @@ public class Hello
 		System.out.println("happy new year");
 		System.out.println("happy myself！");
 	}
+	public static void print(){
+	System.out.println("hello world");
+	}
 }
